@@ -1,0 +1,15 @@
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\bin\Debug\net6.0\Pizza-delivery.exe
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\bin\Debug\net6.0\Pizza-delivery.deps.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\bin\Debug\net6.0\Pizza-delivery.runtimeconfig.json
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\bin\Debug\net6.0\Pizza-delivery.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\bin\Debug\net6.0\Pizza-delivery.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.csproj.AssemblyReference.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.AssemblyInfoInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.AssemblyInfo.cs
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\refint\Pizza-delivery.dll
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.pdb
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\Pizza-delivery.genruntimeconfig.cache
+C:\Users\Usuario\Ucreativa\Programacion y Logica\Repartidor de pizza\Pizza-delivery\obj\Debug\net6.0\ref\Pizza-delivery.dll
